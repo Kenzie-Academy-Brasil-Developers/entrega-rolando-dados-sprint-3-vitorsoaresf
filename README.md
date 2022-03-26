@@ -1,5 +1,6 @@
 # Entrega: Rolando os Dados
 
+Link App - https://kenzie-academy-brasil-developers.github.io/entrega-rolando-dados-sprint-3-vitorsoaresf/ <br>
 Para começar, faça o clone desse repositório.
 
 **O objetivo desta atividade é simular a rolagem de dois dados várias vezes, anotar a frequencia de cada resultado e depois fazer o display dessas frequencias obtidas.**
